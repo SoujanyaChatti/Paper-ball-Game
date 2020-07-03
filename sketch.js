@@ -28,7 +28,7 @@ function setup() {
     
 	ground2=new Groundd(370,585,740,20);
 	ground3=new Groundd(850,565,160,20);
-	
+	ground4=new Groundd(790,480,5,180);
 	box1=new Box(850,585,180,20);
 	box2=new Box(750,505,20,180);
 	box3=new Box(950,505,20,180);
@@ -47,7 +47,7 @@ ellipseMode(RADIUS);
   box3.display();
   ground2.display();
   ground3.display();
- 
+  ground4.display();
   fill("yellow");
   text("USE THE CONTROL KEYS TO THROW THE PAPER INTO THE BIN",200,50);
   drawSprites();
