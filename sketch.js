@@ -27,7 +27,7 @@ function setup() {
 	paper=new Paper(50,580);
     
 	ground2=new Groundd(370,585,740,20);
-	ground3=new Groundd(850,565,200,20);
+	ground3=new Groundd(850,550,200,20);
 	ground4=new Groundd(760,505,5,180);
 	box1=new Box(850,585,180,20);
 	box2=new Box(750,505,20,180);
