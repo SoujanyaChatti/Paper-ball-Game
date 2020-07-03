@@ -28,8 +28,8 @@ function setup() {
     
 	ground2=new Groundd(370,585,740,20);
 	ground3=new Groundd(850,565,160,20);
-	ground4=new Groundd(775,480,20,180);
-	ground5=new Groundd(920,480,20,180);
+	ground4=new Groundd(770,480,20,180);
+	ground5=new Groundd(930,480,20,180);
 	box1=new Box(850,585,180,20);
 	box2=new Box(750,505,20,180);
 	box3=new Box(950,505,20,180);
