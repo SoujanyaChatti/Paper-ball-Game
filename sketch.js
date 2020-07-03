@@ -46,6 +46,8 @@ ellipseMode(RADIUS);
   box2.display();
   box3.display();
   ground2.display();
+  ground3.display();
+  ground4.display();	
   fill("yellow");
   text("USE THE CONTROL KEYS TO THROW THE PAPER INTO THE BIN",200,50);
   drawSprites();
